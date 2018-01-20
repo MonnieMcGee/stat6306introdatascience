@@ -9,3 +9,5 @@ ORIGINAL WORK OF PROFESSOR MONNIE MCGEE
 #FILE FOLDER ORGANIZATION
 Files and projects for Stat 6306 Introduction to Data Science
  
+1. EDA-NYTdata.md - Exploratory Data Analysis with NYT Data
+2. Mary Wesley_HMWK1_Q4-BarGraph.jpeg - Data Science Profile
