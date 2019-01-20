@@ -1,0 +1,17 @@
+---
+title: "Data Science Profile"
+author: "Jim Holdnack"
+date: "January 14, 2019"
+output:
+  html_document:
+    keep_md: true
+---
+
+This R Markdown provides data science profile for JIm Holdnack
+
+```{r}
+ds.rate <- c(1,3,4,1,4,4,3)
+ds.col.name <- c("programming", "math", "statistics", "machine learning", "domain expertise", "communication and presentation", "data visualization")
+jim.ds.rater <- cbind.data.frame(ds.col.name,ds.rate)
+```
+
